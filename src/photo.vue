@@ -47,7 +47,7 @@ export default {
                         <div class="card-body">
                             
                             <p class="card-text">{{ item.title }}</p>
-                            <a href="#" class="btn btn-primary">Go somewhere</a>
+                            <a href="#" class="btn btn-primary">Detail</a>
                         </div>
                     </div>
                 </div>
